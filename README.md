@@ -26,5 +26,5 @@ This project leverages the dielectric perturbation theory of RF signals. Urea al
 4. **Analysis**: Run `scripts/milk_analyzer.py` for a full Milk Quality Audit Report.
 
 ---
-**Technical Lead**: Krishna (Technical Co-Founder)
+**Technical Lead**: Krish (Technical Co-Founder)
 **Role**: AI Engineering & RF Sensing
