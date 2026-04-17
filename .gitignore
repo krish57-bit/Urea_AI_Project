@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.venv_old/
+.env
+.ipynb_checkpoints/
+
+# ML Artifacts (Local Research)
+Archive_Old_ML/
+*.keras
+*.h5
+*.pkl
+*.joblib
+*.png
+
+# Data (Sensitive or Large)
+# production_vna_dataset.csv (Uncomment if you want to keep data local)
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
